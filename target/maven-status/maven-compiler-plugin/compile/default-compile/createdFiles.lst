@@ -1,6 +1,0 @@
-org\automation\practices\factory\PlaywrightFactory.class
-org\automation\practices\steps\TestStep.class
-org\automation\practices\Page\TestPage.class
-org\automation\practices\RunCucumber.class
-org\automation\practices\TestRunner.class
-org\automation\practices\factory\BaseTest.class
