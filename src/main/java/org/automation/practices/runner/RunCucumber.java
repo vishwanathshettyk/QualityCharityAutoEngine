@@ -1,4 +1,4 @@
-package org.automation.practices;
+package org.automation.practices.runner;
 
 import io.cucumber.core.cli.*;
 

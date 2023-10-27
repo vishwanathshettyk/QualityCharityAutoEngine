@@ -70,7 +70,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.0.0</version>
         <configuration>
-          <mainClass>org.automation.practices.RunCucumber</mainClass>
+          <mainClass>org.automation.practices.runner.RunCucumber</mainClass>
           <arguments>
             <argument>--glue</argument>
           </arguments>

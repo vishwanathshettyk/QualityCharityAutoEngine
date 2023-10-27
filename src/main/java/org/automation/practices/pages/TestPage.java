@@ -7,7 +7,7 @@ public class TestPage {
     private final String GET_STARTED_LOCATOR = ".getStarted_Sjon";
     private final String SEARCH_BOX = "#docsearch-input";
     private final String SEARCH_BUTTON = ".DocSearch-Button-Container";
-    Page page
+    Page page;
 
     public TestPage(Page page) {
         this.page = page;
