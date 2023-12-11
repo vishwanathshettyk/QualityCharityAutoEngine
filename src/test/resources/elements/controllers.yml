@@ -1,0 +1,26 @@
+home_page:
+  finder: .hero__title.heroTitle_ohkl
+  getStarted: a.getStarted_Sjon
+
+get_started:
+  finder: ul li a:has-text('Writing tests')
+  writing_test: ul li a:has-text('Writing tests')
+  run_test: xpath=//*[@id='docsearch-item-0']
+  search_button: .DocSearch-Button-Container
+  search_box: '#docsearch-input'
+
+browsers_page:
+  finder: '#run-tests-on-different-browsers'
+
+get_login:
+  finder: ul li a:has-text('Writing tests')
+  writing_test: ul li a:has-text('Writing tests')
+  run_test: xpath=//*[@id='docsearch-item-0']
+  search_button: .DocSearch-Button-Container
+  search_box: '#docsearch-input'
+
+login:
+  finder: div.auth-form-header.p-0
+  userName: input#login_field
+  password: input#password
+  singIn: input[name='commit']
